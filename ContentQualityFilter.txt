@@ -71,5 +71,4 @@
 ||tmbox.net^
 
 ! 2025/07/16 https://search.yahoo.co.jp
-search.yahoo.co.jp##[class^="Chart_panel__"]
-search.yahoo.co.jp##[class^="Trend_container____"]
+search.yahoo.co.jp##.sub
