@@ -6,6 +6,8 @@
 ||x.com^
 ||twitter.com^
 ||b.hatena.ne.jp^
+||news.yahoo.co.jp^
+||www.j-cast.com^
 ||yaraon-blog.com^
 ||blog.esuteru.com^
 ||jin115.com^
@@ -62,6 +64,8 @@
 ||adsoku.blogspot.com^
 ||www.indiegogo.jp^
 ||www.gamegadget.jp^
+||animikii-ana-com^
+||tmbox.net^
 
 ! 2025/07/16 https://search.yahoo.co.jp
 search.yahoo.co.jp##.target_modules_viewability.Chart_Chart__Uvws9
