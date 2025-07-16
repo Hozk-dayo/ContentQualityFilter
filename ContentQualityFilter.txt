@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: コンテンツクオリティフィルタ（不適切サイトや要素をブロックするフィルタ）
-! Last modified: 2025/7/16 17:23 JST
+! Last modified: 2025/7/16 17:26 JST
 ! License: CC0 (Public Domain)
 
 ||x.com^
@@ -69,8 +69,27 @@
 ||www.gamegadget.jp^
 ||animikii-ana-com^
 ||tmbox.net^
+||ogp.me^
+||www.facebook.com/2008/fbml^
+||gree.jp^
+||blog.livedoor.com/plugins/news/topics.js^
+||blog.livedoor.com/plugins/sports/topic_id_1.js^
+||cdn.jwplayer.com^
+||schema.org/VideoObject^
 
-! 2025/07/16 https://search.yahoo.co.jp
+! zh.moegirl.org.cn
+! 萌娘百科 - 不要な要素を非表示にするフィルタ
+zh.moegirl.org.cn##.header, .moe-skin-header, .footer, #footer-info-copyright
+zh.moegirl.org.cn##.moe-skin-sidebar, .sidebar
+zh.moegirl.org.cn##.site-notice, #moeskin-sitenotice, #topNotice, #topNotice-pinnedAnnouncement
+zh.moegirl.org.cn##.moe-skin-footer, #footer-moegirl, .footer-info
+zh.moegirl.org.cn##.social-links, .social-icons, .bilibili, .weibo
+zh.moegirl.org.cn##.navbox, .mw-collapsible
+zh.moegirl.org.cn##.advertisement, .ad-container, .ad-slot
+zh.moegirl.org.cn##.moe-skin-searchbar, .search-bar
+
+! https://search.yahoo.co.jp
+! 動作しない
 search.yahoo.co.jp##.target_modules_viewability.Chart_Chart__Uvws9
 search.yahoo.co.jp##.target_modules_viewability.Trend_excursion__vqQEg.Trend_Trend__GZ_fj
 search.yahoo.co.jp##.sub
