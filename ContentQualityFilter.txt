@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: コンテンツクオリティフィルタ（不適切サイトや要素をブロックするフィルタ）
-! Last modified: 2025/7/16 00:00 JST
+! Last modified: 2025/7/16 13:11 JST
 ! License: CC0 (Public Domain)
 
 ||x.com^
@@ -8,6 +8,9 @@
 ||b.hatena.ne.jp^
 ||news.yahoo.co.jp^
 ||www.j-cast.com^
+||togetter.com^
+||posfie.com^
+||twilog.togetter.com/^
 ||yaraon-blog.com^
 ||blog.esuteru.com^
 ||jin115.com^
