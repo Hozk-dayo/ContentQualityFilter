@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: コンテンツクオリティフィルタ（不適切サイトや要素をブロックするフィルタ）
-! Last modified: 2025/7/16 17:15 JST
+! Last modified: 2025/7/16 17:21 JST
 ! License: CC0 (Public Domain)
 
 ||x.com^
@@ -70,5 +70,5 @@
 ||animikii-ana-com^
 ||tmbox.net^
 
-! 2025/07/16 https://search.yahoo.co.jp
-search.yahoo.co.jp##.sub
+! 2025/07/16 https://search.yahoo.co.jp/realtime
+search.yahoo.co.jp/realtime##.sub
