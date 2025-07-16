@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: コンテンツクオリティフィルタ（不適切サイトや要素をブロックするフィルタ）
-! Last modified: 2025/7/16 17:26 JST
+! Last modified: 2025/7/16 17:33 JST
 ! License: CC0 (Public Domain)
 
 ||x.com^
@@ -90,9 +90,8 @@ zh.moegirl.org.cn##.moe-skin-searchbar, .search-bar
 
 ! https://search.yahoo.co.jp
 ! 動作しない
-search.yahoo.co.jp##.target_modules_viewability.Chart_Chart__Uvws9
-search.yahoo.co.jp##.target_modules_viewability.Trend_excursion__vqQEg.Trend_Trend__GZ_fj
+search.yahoo.co.jp###atkey
+search.yahoo.co.jp###pop
 search.yahoo.co.jp##.sub
-search.yahoo.co.jp/realtime##.target_modules_viewability.Chart_Chart__Uvws9
-search.yahoo.co.jp/realtime##.target_modules_viewability.Trend_excursion__vqQEg.Trend_Trend__GZ_fj
-search.yahoo.co.jp/realtime##.sub
+search.yahoo.co.jp##.Chart_panel__9OWUH
+search.yahoo.co.jp##.Trend_container__d7dWI
