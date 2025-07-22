@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: コンテンツクオリティフィルタ（不適切サイトや要素をブロックするフィルタ）
+! Title: コンテンツクオリティフィルタ（サイトを重くする要素や不適切サイトをブロックするフィルタ）
 ! Last modified: 2025/7/16 17:39 JST
 ! License: CC0 (Public Domain)
 
@@ -8,6 +8,7 @@
 ||togetter.com^
 ||posfie.com^
 ||twilog.togetter.com^
+||discord.com^
 ||search.yahoo.co.jp/realtime^
 ||b.hatena.ne.jp^
 ||news.yahoo.co.jp^
